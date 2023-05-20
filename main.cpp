@@ -66,5 +66,5 @@ int main() {
 //TODO: learn how to do menus
 //TODO: check how to move items and perform other actions on filesystems
 //TODO: check online for fs wrapper
-//TODO:
+//TODO: try to think of a way to properly do argcheck and two frontends/interfaces
 
